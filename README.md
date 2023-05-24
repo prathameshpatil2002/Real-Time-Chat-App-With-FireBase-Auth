@@ -31,7 +31,7 @@ The backend services are hosted on Firebase, and users authenticate with their G
 3. Start sending and receiving real-time messages within the chat room.
 
 ## Folder Structure
-- public/index.html # HTML file for the frontend
-- public/style.css # CSS styles for the frontend
-- public/app.js # JavaScript code for the frontend functionality
+- public/index.html => HTML file for the frontend
+- public/style.css  => CSS styles for the frontend
+- public/app.js     => JavaScript code for the frontend functionality
 
