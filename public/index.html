@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Real-Time Chat App</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script type="module" src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app-compat.js"></script>
+  <script type="module" src="https://www.gstatic.com/firebasejs/9.0.2/firebase-auth-compat.js"></script>
+  <script type="module" src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore-compat.js"></script>
+  <script type="module" src="app.js"></script>
+  
+</head>
+
+<body>
+  <div id="login-container">
+    <h1>Welcome to Real-Time Chat App</h1>
+    <button id="login-button">Sign in with Google</button>
+  </div>
+
+  <div id="chat-container" style="display: none;">
+    <h1>Chat Room</h1>
+    <div id="message-list"></div>
+    <input type="text" id="message-input" placeholder="Type your message...">
+    <button id="send-button">Send</button>
+    <button id="logout-button">Logout</button>
+  </div>
+  
+</body>
+ 
+</html>
