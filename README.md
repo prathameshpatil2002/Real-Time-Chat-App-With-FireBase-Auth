@@ -35,3 +35,7 @@ The backend services are hosted on Firebase, and users authenticate with their G
 - public/style.css  => CSS styles for the frontend
 - public/app.js     => JavaScript code for the frontend functionality
 
+## Future Work
+- Functionality to allow users to create chat rooms, join existing ones.
+- Private Messaging: Users can send private messages to other users.
+
