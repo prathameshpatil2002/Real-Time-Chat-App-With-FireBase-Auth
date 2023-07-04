@@ -1,4 +1,4 @@
-# Real-Time Chat App
+# Real Time Chat App
 
 This is a real-time chat application that allows users to send and receive messages in real time.
 The backend services are hosted on Firebase, and users authenticate with their Google accounts.
