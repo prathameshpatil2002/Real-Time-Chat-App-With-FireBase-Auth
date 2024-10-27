@@ -1,14 +1,14 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize Firebase
     const firebaseConfig = {
-      apiKey: "AIzaSyB_6JOncs9I5E_r1S0Zu1_sdoug4jtm_P8",
-      authDomain: "real-time-chat-d71e7.firebaseapp.com",
-      databaseURL: "https://real-time-chat-d71e7-default-rtdb.firebaseio.com",
-      projectId: "real-time-chat-d71e7",
-      storageBucket: "real-time-chat-d71e7.appspot.com",
-      messagingSenderId: "267613622354",
-      appId: "1:267613622354:web:45ae047f3c3d006a67cf8b",
-      measurementId: "G-MM0FKNPHVZ"
+      apiKey: "",
+      authDomain: "",
+      databaseURL: "",
+      projectId: "",
+      storageBucket: "",
+      messagingSenderId: "",
+      appId: "",
+      measurementId: ""
     };
 
 
